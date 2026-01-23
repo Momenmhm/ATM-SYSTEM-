@@ -2,9 +2,10 @@
 #include <vector>
 #include <iomanip>
 #include <fstream>
+#include <string>
 using namespace std ;
 
-const string Fpath = "/storage/emulated/0/clientinfo1.txt" ;
+const string Fpath = "clientinfo1.txt" ;
 
 enum eMainMenu { Quick_withdraw = 1 , Normal_withdraw = 2 , Deposit = 3 , Show_balance = 4 , LogOut = 5 }  ; 
 
