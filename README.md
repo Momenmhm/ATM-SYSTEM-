@@ -9,17 +9,22 @@ Project Overview
 ![Screenshot](Images/Login_Screen.png)
 
 ​Secure Login: Provides a login system to validate users.
+
 ​Transaction Options: Supports deposits, withdrawals, and balance inquiries.
+
 ​Quick & Custom Withdrawals: Offers quick, pre-defined withdrawals and a custom withdrawal option.
+
 ​Data Persistence: Saves and loads all client information to a file, ensuring data is saved.
+
 ​Modular Code: Designed with clear functions for easy maintenance and readability.
+
 ![Screenshot](Images/WithDraw_Screen.png)
 
 ## ​Technologies Used
-​C++
-​File Handling (fstream)
-​Enums and Structs
-​Learning Goals
+​C++, 
+​File Handling (fstream), 
+​Enums and Structs, 
+​Learning Goals.
 
 ## ​This project helped me learn to:
 ​Build command-line applications.
